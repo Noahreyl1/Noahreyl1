@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:ff69b4&height=200&section=header&text=assma%20🐱&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0057B7,100:D52B1E&height=200&section=header&text=assma%20🐱&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
 ### Developer
 
-[![Website](https://img.shields.io/badge/Website-rottenbypass.xyz-ff69b4?style=flat-square&logo=vercel&logoColor=white)](https://rottenbypass.xyz/)
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/wRtxPXgSJB)
+[![Website](https://img.shields.io/badge/Website-rottenbypass.xyz-0057B7?style=flat-square&logo=vercel&logoColor=white)](https://rottenbypass.xyz/)
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-D52B1E?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/wRtxPXgSJB)
 
 </div>
 
@@ -42,9 +42,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=assma&color=ff69b4&style=flat-square&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/assma?label=Followers&style=flat-square&color=ff69b4&logo=github)
-![Stars](https://img.shields.io/github/stars/assma?label=Stars&style=flat-square&color=ff69b4&logo=github)
+![Profile Views](https://komarev.com/ghpvc/?username=assma&color=0057B7&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/assma?label=Followers&style=flat-square&color=0057B7&logo=github)
+![Stars](https://img.shields.io/github/stars/assma?label=Stars&style=flat-square&color=D52B1E&logo=github)
 
 </div>
 
@@ -52,6 +52,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:0a0a0a&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D52B1E,100:0057B7&height=120&section=footer" />
 
 </div>
