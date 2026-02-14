@@ -2,6 +2,14 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0057B7,100:D52B1E&height=200&section=header&text=assma%20🐱&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=700&size=42&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=kD+%E2%9A%A1" alt="kD" />
+</h1>
+
+<p style="margin-top: -10px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=16&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=500&lines=Owner+%40+sploit.store;Admin+%40+Hazy+Bot+%F0%9F%A4%96" />
+</p>
+
 ### Developer
 
 [![Website](https://img.shields.io/badge/Website-rottenbypass.xyz-0057B7?style=flat-square&logo=vercel&logoColor=white)](https://rottenbypass.xyz/)
