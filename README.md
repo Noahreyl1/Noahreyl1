@@ -1,70 +1,57 @@
 <div align="center">
 
-<h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=SF+Pro+Display&weight=700&size=42&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=kD+%E2%9A%A1" alt="kD" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:ff69b4&height=200&section=header&text=assma%20🐱&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
-<p style="margin-top: -10px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=400&size=16&duration=3000&pause=1000&color=9CA3AF&center=true&vCenter=true&width=500&lines=Owner+%40+sploit.store;Admin+%40+Hazy+Bot+%F0%9F%A4%96" />
-</p>
+### Developer
 
-</div>
-
-<br/>
-
-<div align="center">
-
-<a href="https://sploit.store/" style="color: #A78BFA; text-decoration: none;">Sploit</a>
-<table>
-<tr>
-<td align="center" width="33%">
-<br/>
-<strong style="color: #D1D5DB;">2+</strong>
-<br/>
-<sub style="color: #6B7280;">Years Active</sub>
-<br/><br/>
-</td>
-<td align="center" width="33%">
-<br/>
-<strong style="color: #D1D5DB;">10,000+</strong>
-<br/>
-<sub style="color: #6B7280;">Products Sold</sub>
-<br/><br/>
-</td>
-<td align="center" width="33%">
-<br/>
-<strong style="color: #D1D5DB;">1,000+</strong>
-<br/>
-<sub style="color: #6B7280;">Customers</sub>
-<br/><br/>
-</td>
-</tr>
-</table>
-
-<sub style="color: #6B7280;">E-commerce for digital products • Fast delivery • Active support</sub>
+[![Website](https://img.shields.io/badge/Website-rottenbypass.xyz-ff69b4?style=flat-square&logo=vercel&logoColor=white)](https://rottenbypass.xyz/)
+[![Discord](https://img.shields.io/badge/Discord-Join_Server-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/wRtxPXgSJB)
 
 </div>
 
-<br/><br/>
+---
+
+## About
+
+- 💻 Developer  
+- 🚀 Interested in software and systems  
+- 🧠 Always learning  
+
+---
+
+## Tech Stack
 
 <div align="center">
 
-<a href="https://sploit.store">
-  <img src="https://img.shields.io/badge/sploit.store-0a0a0a?style=flat&logo=google-chrome&logoColor=A78BFA" height="28"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://discord.gg/FDAvz7vWB9">
-  <img src="https://img.shields.io/badge/Discord-0a0a0a?style=flat&logo=discord&logoColor=A78BFA" height="28"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://hazybot.net/">
-  <img src="https://img.shields.io/badge/🤖 Hazy%20Bot%20-0a0a0a?style=flat&logo=bot&logoColor=A78BFA" height="28"/>
-</a>
+### Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 </div>
 
-<br/><br/>
+---
+
+## Stats
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a0a,100:1a1a1a&height=2" width="100%"/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=assma&color=ff69b4&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/assma?label=Followers&style=flat-square&color=ff69b4&logo=github)
+![Stars](https://img.shields.io/github/stars/assma?label=Stars&style=flat-square&color=ff69b4&logo=github)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:0a0a0a&height=120&section=footer" />
+
 </div>
