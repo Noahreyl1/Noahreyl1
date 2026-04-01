@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0057B7,100:D52B1E&height=200&section=header&text=assma%20🐱&fontSize=45&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0057B7,100:D52B1E&height=200&section=header&text=assma%20&fontSize=45&fontColor=ffffff&animation=fadeIn" />
 
 ### Developer
 
