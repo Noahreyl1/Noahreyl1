@@ -4,9 +4,6 @@
 
 ### Developer
 
-[![Website](https://img.shields.io/badge/Website-rottenbypass.xyz-0057B7?style=flat-square&logo=vercel&logoColor=white)](https://rottenbypass.xyz/)
-[![Discord](https://img.shields.io/badge/Discord-Join_Server-D52B1E?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/wRtxPXgSJB)
-
 </div>
 
 ---
